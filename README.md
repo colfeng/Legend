@@ -12,4 +12,4 @@ The code of annotation framework Legend for safety margin of preference datasets
 
 Our dataset can click [here](https://huggingface.co/datasets/ColFeng/safety-alignment-legend)!
 
-Our paper with Appendix can click in [here](https://arxiv.org/abs/2406.08124)!
+Our paper with Appendix can click [here](https://arxiv.org/abs/2406.08124)!
